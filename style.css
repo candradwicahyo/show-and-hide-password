@@ -1,0 +1,47 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.container {
+  position: relative;
+  width: 400px;
+  margin: 0 auto;
+}
+
+.input-wrapper {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+
+.input {
+  position: relative;
+  width: 100%;
+  padding: 15px 50px 15px 20px;
+  border: none;
+  outline: none;
+  background: #f4f7fe;
+  box-sizing: border-box;
+}
+
+.icon-wrapper {
+  position: absolute;
+  top: 50%;
+  right: 4%;
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+}
+
+.hide {
+  display: none;
+}
+
+/* for mobile */
+@media only screen and (max-width: 768px) {
+  .container {
+    width: 90%;
+  }
+}
