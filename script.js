@@ -1,8 +1,5 @@
 window.addEventListener('DOMContentLoaded', () => {
   
-  // plugin vconsole
-  const vconsole = new VConsole();
-  
   const eyeIcons = document.querySelectorAll('#icon');
   eyeIcons.forEach(eyeIcon => {
     eyeIcon.addEventListener('click', function() {
