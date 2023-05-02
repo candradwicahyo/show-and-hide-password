@@ -1,36 +1,40 @@
 # show and hide password
 
-dibuat dengan menggunakan html, css dan javascript. program ini akan mengubah tipe input yang tadinya password menjadi text dan yang tadinya text menjadi password ketika ikon mata ditekan. kode sudah saya sertakan komentar supaya para programmer pemula bisa mempelajarinya.
+Program ini dibuat dengan tujuan untuk memudahkan pengguna dalam mengubah tipe input password menjadi tampilan teks biasa dan sebaliknya dengan menekan ikon mata. Program ini ditulis menggunakan bahasa pemrograman HTML, CSS, dan JavaScript.
 
-## dibuat dengan berikut
+## Manfaat
 
-* html
-* css
-* javascript
+Dengan menggunakan program ini, pengguna dapat dengan mudah melihat karakter yang telah dimasukkan pada input password sebelum dikirimkan atau disimpan. Hal ini dapat membantu pengguna untuk memastikan bahwa password yang dimasukkan benar dan mengurangi kesalahan dalam memasukkan password.
 
-## lainnya
+## Fitur 
 
-* [bootstrap](https://getbootstrap.com)
-* [fontawesome](https://fontawesome.com)
+* Memungkinkan pengguna untuk menampilkan dan menyembunyikan password dengan mengklik ikon mata
+* Dilengkapi dengan komentar di dalam kode untuk memudahkan pemahaman, terutama bagi para pemula
+* Menggunakan library Fontawesome untuk ikon mata pada tampilan input password
+
+## Bahasa Pemrograman dan Library
+
+Program ini ditulis menggunakan bahasa pemrograman HTML, CSS, dan JavaScript. Program juga menggunakan library Fontawesome untuk mengambil ikon mata pada tampilan input password.
 
 ## kontributor
 
-* candra dwi cahyo
-
-  * [facebook](https://facebook.com/candradwicahyo18)
-  * [instagram](https://instagram.com/candradwicahyo18)
+Program ini dibuat oleh saya, [Candra Dwi Cahyo](https://instagram.com/candradwicahyo18).
 
 ## cara mendownload
 
-buka atau install command prompt di handphone atau laptop/pc kalian, lalu ketikkan kode dibawah ini
+Untuk mengunduh program ini, Anda dapat mengikuti langkah-langkah di bawah ini:
+
+1. Buka atau instal command prompt di ponsel atau komputer Anda
+2. Ketikkan perintah berikut di command prompt:
 
 ```bash 
-pkg install git 
 git clone https://github.com/candradwicahyo/show-and-hide-password.git
 ```
 
 ## preview dan demo 
 
+Berikut adalah tampilan preview dari program ini:
+
 ![preview](https://github.com/candradwicahyo/show-and-hide-password/blob/master/image.jpg)
 
-[tekan link ini](https://candradwicahyo.github.io/show-and-hide-password) untuk mencoba demo
+Untuk mencoba demo program ini, silakan klik link berikut: [Demo Program](https://candradwicahyo.github.io/show-and-hide-password) untuk mencoba demo
