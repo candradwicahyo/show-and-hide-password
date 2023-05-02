@@ -9,7 +9,7 @@ Dengan menggunakan program ini, pengguna dapat dengan mudah melihat karakter yan
 ## Fitur 
 
 * Memungkinkan pengguna untuk menampilkan dan menyembunyikan password dengan mengklik ikon mata
-* Dilengkapi dengan komentar di dalam kode untuk memudahkan pemahaman, terutama bagi para pemula
+
 * Menggunakan library Fontawesome untuk ikon mata pada tampilan input password
 
 ## Bahasa Pemrograman dan Library
@@ -25,6 +25,7 @@ Program ini dibuat oleh saya, [Candra Dwi Cahyo](https://instagram.com/candradwi
 Untuk mengunduh program ini, Anda dapat mengikuti langkah-langkah di bawah ini:
 
 1. Buka atau instal command prompt di ponsel atau komputer Anda
+
 2. Ketikkan perintah berikut di command prompt:
 
 ```bash 
